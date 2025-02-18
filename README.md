@@ -1,2 +1,2 @@
 # Practica1
-Tipos de gatos
+Razas de perros
